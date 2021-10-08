@@ -2,6 +2,8 @@
 
 incwadi is a book database to manage your books.
 
+THIS DOCU IS FOR VERSION FROM 32 AND UP. FOR EARLIER VERSIONS CONSULT THE README FILES IN THE CORRESPONDING REPOS.
+
 ## Repositories
 
 - doc <https://github.com/incwadi-warehouse/docu> - Documentation
