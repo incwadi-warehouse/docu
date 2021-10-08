@@ -19,6 +19,14 @@ incwadi is a book database to manage your books.
 - MySQL
 - SSH Access
 
+## Screenshots
+
+![inventory](screenshot-inventory.png)
+inventory
+
+![find](screenshot-find.png)
+find
+
 ## Install with Docker
 
 Installation with Docker is the preferred way!
