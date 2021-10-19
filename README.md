@@ -35,7 +35,7 @@ Installation with Docker is the preferred way!
 
 Clone the examples repo from `git@github.com:incwadi-warehouse/docker.git`.
 
-Change into the new created directory, create a `.env` file and define/ change the env vars - particularly the passwords.
+Change into the new created directory, create a `.env` file and define/change the env vars - particularly the passwords.
 
 ```env
 //.env
@@ -58,13 +58,6 @@ VUE_APP_FIND='DOMAIN'
 VUE_APP_LOGO=false
 VUE_APP_THEME=false
 VUE_APP_ABOUT=
-```
-
-To authenticate your users, you need to generate the SSL keys under `jwt/`.
-
-```shell
-openssl genrsa -out jwt/private.pem -aes256 4096
-openssl rsa -pubout -in jwt/private.pem -out jwt/public.pem
 ```
 
 Run `./setup` to start the container.
@@ -239,4 +232,4 @@ yarn build
 
 ## Architecture
 
-All Code needs to be checked. For that PHP-CS-Fixer, ESLint, SonarQube, CI, Unit-Tests and E2E-Tests are in place. Security Alerts for dependencies should be active and Best Practices for coding needs to be followed. As frameworks were chosen Symfony and VueJS because of their free licenses and wide spread. The resulting code should also be released under a free license.
+All Code needs to be checked. For that PHP-CS-Fixer, ESLint, SonarQube, CI-Tools, Unit-Tests and E2E-Tests are in place. Security Alerts for dependencies should be active and Best Practices for coding needs to be followed. As frameworks were chosen Symfony and VueJS because of their free licenses and wide spread. The resulting code should also be released under a free license.
