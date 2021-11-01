@@ -41,6 +41,9 @@ Change into the new created directory, create a `.env` file and define/change th
 //.env
 
 COMPOSE_PROJECT_NAME=incwadi
+PORT_CORE=9006
+PORT_INVENTORY=9003
+PORT_FIND=9004
 
 DATABASE_NAME=incwadi
 DATABASE_USER=admin
@@ -230,6 +233,9 @@ yarn build
 - VUE_APP_THEME - Path to theme.css
 - VUE_APP_ABOUT - Text at the bottom
 - VUE_APP_BASE_URL - The Base URL, in case the app is installed in a subdir.
+- PORT_CORE - Port for core
+- PORT_INVENTORY - Port for inventory
+- PORT_FIND - Port for find
 
 ## Architecture
 
