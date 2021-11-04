@@ -924,6 +924,7 @@ paths:
                                     - reserved
                                     - sold
                                     - removed
+                                    - storage
                                 properties:
                                     all:
                                         type: number
@@ -934,6 +935,8 @@ paths:
                                     sold:
                                         type: number
                                     removed:
+                                        type: number
+                                    storage:
                                         type: number
                 "401":
                     description: Access token is missing or invalid
