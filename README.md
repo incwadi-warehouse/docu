@@ -9,8 +9,8 @@ THIS DOCU IS FOR VERSION FROM 32 AND UP. FOR EARLIER VERSIONS CONSULT THE README
 - doc <https://github.com/incwadi-warehouse/docu> - Documentation
 - docker <https://github.com/incwadi-warehouse/docker> - Docker Example
 - core <https://github.com/incwadi-warehouse/core> - Backend
-- kitchen <https://github.com/incwadi-warehouse/inventory> - UI
-- kitchen <https://github.com/incwadi-warehouse/find> - UI
+- inventory <https://github.com/incwadi-warehouse/inventory> - UI
+- find <https://github.com/incwadi-warehouse/find> - UI
 
 ## Requirements
 
