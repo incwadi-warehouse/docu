@@ -2592,6 +2592,8 @@ components:
                 - ordering
                 - orderBy
                 - public
+                - pricelist
+                - cart
             properties:
                 name:
                     type: string
@@ -2605,6 +2607,10 @@ components:
                     type: string
                 public:
                     type: boolean
+                pricelist:
+                  type: string
+                cart:
+                 type: boolean
 
         BranchResponse:
             type: object
@@ -2616,6 +2622,8 @@ components:
                 - ordering
                 - orderBy
                 - public
+                - pricelist
+                - cart
             properties:
                 id:
                     type: number
@@ -2631,6 +2639,10 @@ components:
                     type: string
                 public:
                     type: boolean
+                pricelist:
+                  type: string
+                cart:
+                  type: boolean
 
         ConditionRequest:
             type: object
