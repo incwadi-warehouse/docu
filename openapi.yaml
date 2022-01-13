@@ -39,6 +39,8 @@ tags:
       description: Tag
     - name: bookmark
       description: Bookmark
+    - name: directory
+      description: Directory
 
 paths:
     # User
@@ -2181,6 +2183,28 @@ paths:
                             schema:
                                 $ref: "#/components/schemas/ErrorResponse"
 
+    # directory
+    /directory/:
+        get:
+            tags:
+                - directory
+            description: List contents for a given directory
+            responses:
+                "200":
+                    description: Success
+                    content:
+                        application/json:
+                            schema:
+                                type: array
+                                items:
+                                    $ref: "#/components/schemas/DirectoryResponse"
+                "401":
+                    description: Access token is missing or invalid
+                    content:
+                        application/json:
+                            schema:
+                                $ref: "#/components/schemas/ErrorResponse"
+
 components:
     securitySchemes:
         bearerAuth:
@@ -2795,6 +2819,26 @@ components:
                     type: string
                 name:
                     type: string
+
+        DirectoryResponse:
+            type: object
+            required:
+                - name
+                - path
+                - isFile
+                - isDir
+                - size
+            properties:
+                name:
+                    type: string
+                path:
+                    type: string
+                isFile:
+                    type: boolean
+                isDir:
+                    type: boolean
+                size:
+                    type: integer
 
         ErrorResponse:
             type: object
