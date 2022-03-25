@@ -2,7 +2,7 @@
 
 incwadi is a book database to manage your books.
 
-THIS DOCU IS FOR VERSION FROM 32 AND UP. FOR EARLIER VERSIONS CONSULT THE README FILES IN THE CORRESPONDING REPOS.
+The "catalog" project is in beta phase. It will soon succeed the "inventory" project.
 
 ## Repositories
 
@@ -44,6 +44,7 @@ Change into the new created directory, create a `.env` file and define/change th
 COMPOSE_PROJECT_NAME=incwadi
 PORT_CORE=9006
 PORT_INVENTORY=9003
+PORT_CATALOG=9014
 PORT_FIND=9004
 
 DATABASE_NAME=incwadi
@@ -161,10 +162,11 @@ Download the files from the repository.
 
 ```shell
 git clone https://github.com/incwadi-warehouse/inventory.git
+git clone https://github.com/incwadi-warehouse/catalog.git
 git clone https://github.com/incwadi-warehouse/find.git
 ```
 
-The following must be done in **both** of the created directories.
+The following must be done in **all** of the created directories.
 
 Change into the created directory.
 
@@ -236,6 +238,7 @@ yarn build
 - VUE_APP_BASE_URL - The Base URL, in case the app is installed in a subdir.
 - PORT_CORE - Port for core
 - PORT_INVENTORY - Port for inventory
+- PORT_CATALOG - Port for catalog
 - PORT_FIND - Port for find
 
 ## Architecture
