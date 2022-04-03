@@ -47,6 +47,8 @@ PORT_INVENTORY=9003
 PORT_CATALOG=9014
 PORT_FIND=9004
 
+DATABASE_SERVER=db
+DATABASE_PORT=3306
 DATABASE_NAME=incwadi
 DATABASE_USER=admin
 DATABASE_PASSWORD=password
@@ -221,6 +223,8 @@ yarn build
 
 - APP_ENV - Environment, like `prod`, `dev` or `test`
 - APP_SECRET - A secret key
+- DATABASE_SERVER - Domain to the db server
+- DATABASE_PORT - Port of the db server
 - DATABASE_URL - Schema with credentials e.g. `mysql://db_user:db_password@127.0.0.1:3306/db_name?serverVersion=8.0`
 - DATABASE_NAME - Name of the db
 - DATABASE_USER - Username for the db
