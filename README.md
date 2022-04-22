@@ -11,7 +11,7 @@ The "catalog" project is in beta phase. It will soon succeed the "inventory" pro
 - core <https://github.com/incwadi-warehouse/core> - Backend
 - catalog <https://github.com/incwadi-warehouse/catalog> - UI
 - inventory <https://github.com/incwadi-warehouse/inventory> - UI
-- find <https://github.com/incwadi-warehouse/find> - UI
+- shop <https://github.com/incwadi-warehouse/shop> - UI
 
 ## Requirements
 
