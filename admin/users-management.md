@@ -1,8 +1,6 @@
 # Users Management
 
-You have to enter the corresponding `php-fpm` Docker container first.
-
-Fetching a list with all users and their corresponding id:
+Fetching a list with all users and their corresponding id.
 
 ```shell
 bin/console user:list

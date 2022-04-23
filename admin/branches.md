@@ -1,7 +1,5 @@
 # Branches
 
-You have to enter the corresponding `php-fpm` Docker container first.
-
 Branches can only be created on the command line.
 
 List all branches and there corresponding id.
