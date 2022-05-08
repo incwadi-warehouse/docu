@@ -8,6 +8,8 @@ incwadi is a book database to manage your books.
 - core <https://github.com/incwadi-warehouse/core> - Backend
 - catalog <https://github.com/incwadi-warehouse/catalog> - UI
 - shop <https://github.com/incwadi-warehouse/shop> - UI
+- settings <https://github.com/incwadi-warehouse/settings> - UI
+- orders <https://github.com/incwadi-warehouse/orders> - UI
 
 ## Get Started
 
