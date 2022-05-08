@@ -20,4 +20,3 @@
 - VUE_APP_THEME - Path to theme.css
 - VUE_APP_ABOUT - Text at the bottom
 - VUE_APP_BASE_URL - The Base URL, in case the app is installed in a subdirectory
-
