@@ -14,12 +14,10 @@
 - VUE_APP_API - URL to the backend
 - VUE_APP_I18N_LOCALE - The locale e.g. `en-US`
 - VUE_APP_I18N_FALLBACK_LOCALE - Like `VUE_APP_I18N_LOCALE`, but as a last resort
-- VUE_APP_FIND - Path to the public frontend
+- VUE_APP_FIND - URL to the shop
+- VUE_APP_CATALOG - URL to the catalog
 - VUE_APP_LOGO - Path to the logo
 - VUE_APP_THEME - Path to theme.css
 - VUE_APP_ABOUT - Text at the bottom
 - VUE_APP_BASE_URL - The Base URL, in case the app is installed in a subdirectory
-- PORT_CORE - Port for core
-- PORT_INVENTORY - Port for inventory
-- PORT_CATALOG - Port for catalog
-- PORT_FIND - Port for find
+
