@@ -2,15 +2,29 @@
 
 ## v42
 
+en
+
 - [orders][settings] Upgrade @baldeweg/ui
 - [orders][settings][deprecation] Env var VUE_APP_I18N_FALLBACK_LOCALE removed
 - [catalog] Modal can be closed with esc key
 - [shop] Filter by genre
 - [core] Spaces before and after search term are ignored
-- [orders] Rename `created_at` to `reserved_on`
+- [orders] Rename created_at to reserved_on
 - [settings] Save settings with empty content
 - [orders] Customer details will appear after click
 - [order] Change style to better differentiate between reservations
+
+de
+
+- [orders][settings] Upgrade @baldeweg/ui
+- [orders][settings][deprecation] Env var VUE_APP_I18N_FALLBACK_LOCALE entfernt
+- [catalog] Modal kann mit ESC geschlossen werden
+- [shop] Filtern nach Rubrik
+- [core] Leerzeichen vor und nach dem Suchbegriff werden ignoriert
+- [orders] Angelegt am umbenannt in Reserviert am
+- [settings] Einstellungen können gespeichert werden wenn Content leer ist
+- [orders] Kundeninformationen sind erst nach einem Klick sichtbar
+- [orders] Design angepasst, um besser zwischen Reservierungen unterscheiden zu können.
 
 ## v41
 
