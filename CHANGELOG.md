@@ -1,5 +1,21 @@
 # Changelog
 
+## v43
+
+en
+
+- [shop] Allow headings for content in shop
+- [shop] Rename genre to genres, colored selector for filter
+- [core][orders] Status for reservations
+- [core][catalog][shop] Add subtitle for books
+
+de
+
+- [shop] Überschriften sind für den Infotext im Shop zulässig
+- [shop] "Rubrik" umbenannt in "Rubriken", Farbiger Selektor für den Filter
+- [core][orders] Status für Reservierungen
+- [core][catalog][shop] Untertitel für Bücher hinzugefügt
+
 ## v42
 
 en
