@@ -9,6 +9,7 @@ en
 - [core][orders] Status for reservations
 - [core][catalog][shop] Add subtitle for books
 - [core] Remove Import and Export
+- [core] Fix genre in shop respecting global setting for order
 
 de
 
@@ -17,6 +18,7 @@ de
 - [core][orders] Status für Reservierungen
 - [core][catalog][shop] Untertitel für Bücher hinzugefügt
 - [core] Import und Export entfernt
+- [core] Rubriken im Shop korrigiert, sodass die globalen Einstellungen zum Sortieren berücksichtigt werden
 
 ## v42
 
