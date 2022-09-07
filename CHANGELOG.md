@@ -10,6 +10,10 @@ en
 - [core][catalog][shop] Add subtitle for books
 - [core] Remove Import and Export
 - [core] Fix genre in shop respecting global setting for order
+- [core][catalog] Directory is now stable
+- [catalog][EXPERIMENT] New Search for Authors
+- [shop] Bigger font and filter info for filters
+- [core][catalog][orders][DEPRECATION] Deprecate Date and Time in Reservation
 
 de
 
@@ -19,6 +23,10 @@ de
 - [core][catalog][shop] Untertitel für Bücher hinzugefügt
 - [core] Import und Export entfernt
 - [core] Rubriken im Shop korrigiert, sodass die globalen Einstellungen zum Sortieren berücksichtigt werden
+- [core][catalog] Directory ist jetzt stabil
+- [catalog][EXPERIMENT] Neue Suche nach Autor*innen
+- [shop] Größere Schrift und Filter Label für Filter
+- [core][catalog][orders][DEPRECATION] Datum und Uhrzeit bei Reservierungen sind jetzt veraltet
 
 ## v42
 
