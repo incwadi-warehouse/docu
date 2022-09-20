@@ -14,6 +14,7 @@ en
 - [catalog][EXPERIMENT] New Search for Authors
 - [shop] Bigger font and filter info for filters
 - [core][catalog][orders][DEPRECATION] Deprecate Date and Time in Reservation
+- [accounts][EXPERIMENT] New Login Service
 
 de
 
@@ -27,6 +28,7 @@ de
 - [catalog][EXPERIMENT] Neue Suche nach Autor*innen
 - [shop] Größere Schrift und Filter Label für Filter
 - [core][catalog][orders][DEPRECATION] Datum und Uhrzeit bei Reservierungen sind jetzt veraltet
+- [accounts][EXPERIMENT] Neuer Login Service
 
 ## v42
 
