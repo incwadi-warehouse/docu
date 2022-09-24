@@ -1,5 +1,17 @@
 # Changelog
 
+## v44
+
+en
+
+- [catalog][settings][shop][orders] Update UI library @baldeweg/ui
+- [core] Update flex recipes
+
+de
+
+- [catalog][settings][shop][orders] UI Library @baldeweg/ui aktualisiert
+- [core] Flex Recipes aktualisiert
+
 ## v43
 
 en
