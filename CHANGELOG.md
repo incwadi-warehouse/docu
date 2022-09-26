@@ -7,14 +7,14 @@ en
 - [core][catalog] Show number of open reservations in alert
 - [catalog][settings][shop][orders] Update UI library @baldeweg/ui
 - [core] Update flex recipes
-- [api-bundle] Remove response from controller
+- [api-bundle][DEPRECATION] Remove response from controller
 
 de
 
 - [core][catalog] Zeige Zahl offener Reservierungen in Benachrichtigung
 - [catalog][settings][shop][orders] UI Library @baldeweg/ui aktualisiert
 - [core] Flex Recipes aktualisiert
-- [api-bundle] Response from API Controller entfernt
+- [api-bundle][DEPRECATION] Response from API Controller entfernt
 
 ## v43
 
