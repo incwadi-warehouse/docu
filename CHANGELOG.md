@@ -11,6 +11,7 @@ en
 - [api-bundle][DEPRECATION] Remove response from controller
 - [api-bundle][DEPRECATION] Remove transformer from serializer
 - [core][catalog][settings][orders][DEPRECATION] Deprecate bookmarks
+- [core][catalog][orders] Remove date and time for reservations
 
 de
 
@@ -21,7 +22,8 @@ de
 - [api-bundle][DEPRECATION] Response from API Controller entfernt
 - [api-bundle][DEPRECATION] Transformer von Serializer entfernt
 - [core][catalog][settings][orders][DEPRECATION] Bookmarks werden nicht mehr unterstützt
-- 
+- [core][vatalog][orders] Datum und Uhrzeit von Reservierungen entfernt
+
 ## v43
 
 en
