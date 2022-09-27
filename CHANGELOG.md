@@ -10,6 +10,7 @@ en
 - [core] Update flex recipes
 - [api-bundle][DEPRECATION] Remove response from controller
 - [api-bundle][DEPRECATION] Remove transformer from serializer
+- [core][catalog][settings][orders][DEPRECATION] Deprecate bookmarks
 
 de
 
@@ -19,7 +20,8 @@ de
 - [core] Flex Recipes aktualisiert
 - [api-bundle][DEPRECATION] Response from API Controller entfernt
 - [api-bundle][DEPRECATION] Transformer von Serializer entfernt
-
+- [core][catalog][settings][orders][DEPRECATION] Bookmarks werden nicht mehr unterstützt
+- 
 ## v43
 
 en
