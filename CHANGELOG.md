@@ -12,6 +12,7 @@ en
 - [api-bundle][DEPRECATION] Remove transformer from serializer
 - [core][catalog][settings][orders][DEPRECATION] Deprecate bookmarks
 - [core][catalog][orders] Remove date and time for reservations
+- [extra-bundle][DEPRECATION] Deprecate `isUser` and `isAdmin`. No user returned in password controller.
 
 de
 
@@ -23,6 +24,7 @@ de
 - [api-bundle][DEPRECATION] Transformer von Serializer entfernt
 - [core][catalog][settings][orders][DEPRECATION] Bookmarks werden nicht mehr unterstützt
 - [core][vatalog][orders] Datum und Uhrzeit von Reservierungen entfernt
+- [extra-bundle][DEPRECATION] Die Methoden `isUser` und `isAdmin` werden bald entfernt. Im Password Controller wird demnächst kein User Array mehr zurückgeliefert.
 
 ## v43
 
