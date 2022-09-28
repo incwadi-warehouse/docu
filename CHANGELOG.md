@@ -5,6 +5,7 @@
 en
 
 - [shop] Decrease font size for genre filter
+- [shop] Move to monorepo
 - [core][catalog] Show number of open reservations in alert
 - [catalog][settings][shop][orders] Update UI library @baldeweg/ui
 - [core] Update flex recipes
@@ -18,6 +19,7 @@ en
 de
 
 - [shop] Kleinere Schrift für den Rubriken-Filter
+- [shop] In das Monorepo verschoben.
 - [core][catalog] Zeige Zahl offener Reservierungen in Benachrichtigung
 - [catalog][settings][shop][orders] UI Library @baldeweg/ui aktualisiert
 - [core] Flex Recipes aktualisiert
