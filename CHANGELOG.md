@@ -15,6 +15,8 @@ en
 - [core][catalog][orders] Remove date and time for reservations
 - [extra-bundle][DEPRECATION] Deprecate `isUser` and `isAdmin`. No user returned in password controller.
 - [extra-bundle] Refactoring User Service
+- [settings][EXPERIMENT] List all tags of a branch
+- [core][settings][EXPERIMENT] Show Announcements, configurable in settings 
 
 de
 
@@ -29,6 +31,8 @@ de
 - [core][vatalog][orders] Datum und Uhrzeit von Reservierungen entfernt
 - [extra-bundle][DEPRECATION] Die Methoden `isUser` und `isAdmin` werden bald entfernt. Im Password Controller wird demnächst kein User Array mehr zurückgeliefert.
 - [extra-bundle] User-Service überarbeitet
+- [settings][EXPERIMENT] Liste alle Schlagworte für eine Filiale auf
+- [core][settings][EXPERIMENT] Zeige Ankündigungen, konfigurierbar in den Einstellungen
 
 ## v43
 
