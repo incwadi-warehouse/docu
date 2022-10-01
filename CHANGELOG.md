@@ -17,6 +17,7 @@ en
 - [extra-bundle] Refactoring User Service
 - [settings][EXPERIMENT] List all tags of a branch
 - [core][settings][EXPERIMENT] Show Announcements, configurable in settings 
+- [core][settings][DEPRECATION] Deprecate order by
 
 de
 
@@ -33,6 +34,7 @@ de
 - [extra-bundle] User-Service überarbeitet
 - [settings][EXPERIMENT] Liste alle Schlagworte für eine Filiale auf
 - [core][settings][EXPERIMENT] Zeige Ankündigungen, konfigurierbar in den Einstellungen
+- [core][settings][DEPRECATION] Sortierreihenfolge wird bald entfernt
 
 ## v43
 
