@@ -14,6 +14,7 @@ incwadi is a book database to manage your books.
 |orders       |<https://github.com/incwadi-warehouse/orders>        |UI                               |
 |monorepo-js  |<https://github.com/incwadi-warehouse/monorepo-js>   |Containing code for UI projects  |
 |monorepo-php |<https://github.com/incwadi-warehouse/monorepo-php>  |Containing PHP Libraries         |
+|monorepo-go  |<https://github.com/incwadi-warehouse/monorepo-go>   |Containing Golang Libraries      |
 
 ## Get Started
 
