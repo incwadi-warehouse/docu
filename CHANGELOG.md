@@ -18,6 +18,7 @@ en
 - [settings][EXPERIMENT] List all tags of a branch
 - [core][settings][EXPERIMENT] Show Announcements, configurable in settings 
 - [core][settings][DEPRECATION] Deprecate order by
+- [catalog] Fix reset subtitle after creating a book
 
 de
 
@@ -35,6 +36,7 @@ de
 - [settings][EXPERIMENT] Liste alle Schlagworte für eine Filiale auf
 - [core][settings][EXPERIMENT] Zeige Ankündigungen, konfigurierbar in den Einstellungen
 - [core][settings][DEPRECATION] Sortierreihenfolge wird bald entfernt
+- [catalog] Fehler behoben, wodurch Untertitel nach dem Katalogisieren nicht zurückgesetzt wurde.
 
 ## v43
 
