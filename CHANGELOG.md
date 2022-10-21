@@ -1,5 +1,19 @@
 # Changelog
 
+## v45
+
+en
+
+- [core][catalog][orders][settings][DEPRECATION] Remove bookmarks
+- [extra-bundle][DEPRECATION] Refactor user
+- [core][settings][DEPRECATION] Remove "order by" in genre filter
+
+de 
+
+- [core][catalog][orders][settings][DEPRECATION] Bookmarks entfernt
+- [extra-bundle][DEPRECATION] User Funktionen überarbeitet
+- [core][settings][DEPRECATION] "Sortieren nach" bei den Rubriken Filtern entfernt
+
 ## v44
 
 en
