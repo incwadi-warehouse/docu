@@ -7,12 +7,14 @@ en
 - [core][catalog][orders][settings][DEPRECATION] Remove bookmarks
 - [extra-bundle][DEPRECATION] Refactor user
 - [core][settings][DEPRECATION] Remove "order by" in genre filter
+- [api-bundle][DEPRECATION] Reworked `Serializer` is part of `Response` 
 
 de 
 
 - [core][catalog][orders][settings][DEPRECATION] Bookmarks entfernt
 - [extra-bundle][DEPRECATION] User Funktionen überarbeitet
 - [core][settings][DEPRECATION] "Sortieren nach" bei den Rubriken Filtern entfernt
+- [api-bundle][DEPRECATION] Überarbeiteter `Serializer` ist Teil von `Response` 
 
 ## v44
 
