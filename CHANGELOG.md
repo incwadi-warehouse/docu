@@ -20,7 +20,7 @@ de
 - [api-bundle][DEPRECATION] Überarbeiteter `Serializer` ist Teil von `Response` 
 - [catalog][orders][settings] In Monorepo verschoben
 - [catalog] Sofern ein Buch nicht angelegt werden kann, wird jetzt die korrekte Fehlermeldung ausgegeben.
-- [catalog][EXPERIMENT] Autor Suche ist nicht mehr verfügbar
+- [catalog][EXPERIMENT] Suche nach Autor\*innen ist nicht mehr verfügbar
 
 ## v44
 
