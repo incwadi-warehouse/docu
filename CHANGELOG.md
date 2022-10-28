@@ -11,6 +11,7 @@ en
 - [catalog][orders][settings] Moved to monorepo
 - [catalog] Fix show correct error message if book can't be saved
 - [catalog][EXPERIMENT] Author Search no longer available
+- [core][catalog][shop] Release year can now be empty (in fact its 0), Validation allows values from 0 to 9999
 
 de 
 
@@ -21,6 +22,7 @@ de
 - [catalog][orders][settings] In Monorepo verschoben
 - [catalog] Sofern ein Buch nicht angelegt werden kann, wird jetzt die korrekte Fehlermeldung ausgegeben.
 - [catalog][EXPERIMENT] Suche nach Autor\*innen ist nicht mehr verfügbar
+- [core][catalog][shop] Erscheinungsjahr kann leer bleiben (d.h. es wird auf 0 gesetzt), Validator erlaubt Werte von 0 bis 999
 
 ## v44
 
