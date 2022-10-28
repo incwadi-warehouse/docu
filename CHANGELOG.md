@@ -9,6 +9,7 @@ en
 - [core][settings][DEPRECATION] Remove "order by" in genre filter
 - [api-bundle][DEPRECATION] Reworked `Serializer` is part of `Response` 
 - [catalog][orders][settings] Moved to monorepo
+- [catalog] Fix show correct error message if book can't be saved
 
 de 
 
@@ -17,6 +18,7 @@ de
 - [core][settings][DEPRECATION] "Sortieren nach" bei den Rubriken Filtern entfernt
 - [api-bundle][DEPRECATION] Überarbeiteter `Serializer` ist Teil von `Response` 
 - [catalog][orders][settings] In Monorepo verschoben
+- [catalog] Sofern ein Buch nicht angelegt werden kann, wird jetzt die korrekte Fehlermeldung ausgegeben.
 
 ## v44
 
