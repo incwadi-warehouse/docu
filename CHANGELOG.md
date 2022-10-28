@@ -10,6 +10,7 @@ en
 - [api-bundle][DEPRECATION] Reworked `Serializer` is part of `Response` 
 - [catalog][orders][settings] Moved to monorepo
 - [catalog] Fix show correct error message if book can't be saved
+- [catalog][EXPERIMENT] Author Search no longer available
 
 de 
 
@@ -19,6 +20,7 @@ de
 - [api-bundle][DEPRECATION] Überarbeiteter `Serializer` ist Teil von `Response` 
 - [catalog][orders][settings] In Monorepo verschoben
 - [catalog] Sofern ein Buch nicht angelegt werden kann, wird jetzt die korrekte Fehlermeldung ausgegeben.
+- [catalog][EXPERIMENT] Autor Suche ist nicht mehr verfügbar
 
 ## v44
 
