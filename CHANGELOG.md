@@ -5,10 +5,12 @@
 en
 
 - [settings][EXPERIMENT] Tags list is now stable
+- [core][settings][EXPERIMENT] Remove announcements
 
 de
 
 - [settings][EXPERIMENT] Schlagwortübersicht ist jetzt stabil
+- [core][settings][EXPERIMENT] Announcements entfernt
 
 ## v45
 
