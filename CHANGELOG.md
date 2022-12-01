@@ -1,5 +1,15 @@
 # Changelog
 
+## v46
+
+en
+
+- [settings][EXPERIMENT] Tags list is now stable
+
+de
+
+- [settings][EXPERIMENT] Schlagwortübersicht ist jetzt stabil
+
 ## v45
 
 en
