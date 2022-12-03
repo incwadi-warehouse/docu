@@ -6,11 +6,13 @@ en
 
 - [settings][EXPERIMENT] Tags list is now stable
 - [core][settings][EXPERIMENT] Remove announcements
+- [settings] Fix issue with white page after login
 
 de
 
 - [settings][EXPERIMENT] Schlagwortübersicht ist jetzt stabil
 - [core][settings][EXPERIMENT] Announcements entfernt
+- [settings] Fehler behoben wodurch nach dem Login eine weiße Seite gezeigt wurde
 
 ## v45
 
