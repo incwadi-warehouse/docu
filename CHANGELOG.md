@@ -1,5 +1,15 @@
 # Changelog
 
+## v47
+
+en
+
+- [orders][EXPERIMENT] Add snow and confetti
+
+de
+
+- [orders][EXPERIMENT] Schnee und Konfetti hinzugefügt
+
 ## v46
 
 en
