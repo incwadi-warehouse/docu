@@ -5,10 +5,12 @@
 en
 
 - [orders][EXPERIMENT] Add snow and confetti
+- [orders][EXPERIMENT] New List View and Detail View
 
 de
 
 - [orders][EXPERIMENT] Schnee und Konfetti hinzugefügt
+- [orders][EXPERIMENT] Neue Listenansicht und Detailansicht
 
 ## v46
 
