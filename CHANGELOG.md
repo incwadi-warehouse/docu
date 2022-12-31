@@ -6,11 +6,13 @@ en
 
 - [orders][EXPERIMENT] Add snow and confetti
 - [orders][EXPERIMENT] New List View and Detail View
+- [orders] Refactoring
 
 de
 
 - [orders][EXPERIMENT] Schnee und Konfetti hinzugefügt
 - [orders][EXPERIMENT] Neue Listenansicht und Detailansicht
+- [orders] Refactoring
 
 ## v46
 
