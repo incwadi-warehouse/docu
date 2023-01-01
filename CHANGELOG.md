@@ -7,12 +7,14 @@ en
 - [orders][EXPERIMENT] Add snow and confetti
 - [orders][EXPERIMENT] New List View and Detail View
 - [orders] Refactoring
+- [catalog][settings][orders] Remove Footer
 
 de
 
 - [orders][EXPERIMENT] Schnee und Konfetti hinzugefügt
 - [orders][EXPERIMENT] Neue Listenansicht und Detailansicht
 - [orders] Refactoring
+- [catalog][settings][orders] Footer entfernt
 
 ## v46
 
