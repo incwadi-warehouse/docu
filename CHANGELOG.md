@@ -8,6 +8,7 @@ en
 - [orders][EXPERIMENT] New List View and Detail View
 - [orders] Refactoring
 - [catalog][settings][orders] Remove Footer
+- [core] Respect firstname in order by author
 
 de
 
@@ -15,6 +16,7 @@ de
 - [orders][EXPERIMENT] Neue Listenansicht und Detailansicht
 - [orders] Refactoring
 - [catalog][settings][orders] Footer entfernt
+- [core] Berücksichtige Vorname in OrderBy Autor*in
 
 ## v46
 
