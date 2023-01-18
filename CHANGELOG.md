@@ -1,5 +1,14 @@
 # Changelog
 
+## v48
+
+en
+
+- [settings][EXPERIMENT] Rework Detail View
+
+de
+- [settings][EXPERIMENT] Detail View überarbeitet
+
 ## v47
 
 en
