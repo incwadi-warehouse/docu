@@ -123,3 +123,7 @@ Configure your webserver to redirect all requests to the `index.html` file.
   RewriteRule . /index.html [L]
 </IfModule>
 ```
+
+## Install go services
+
+https://github.com/incwadi-warehouse/monorepo-go/blob/main/README.md
