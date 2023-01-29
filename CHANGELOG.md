@@ -5,9 +5,12 @@
 en
 
 - [settings][EXPERIMENT] Rework Detail View
+- [orders] Fix allowing blobs in CSP
 
 de
+
 - [settings][EXPERIMENT] Detail View überarbeitet
+- [orders] Blobs in CSP sind jetzt erlaubt
 
 ## v47
 
