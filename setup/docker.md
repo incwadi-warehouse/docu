@@ -95,7 +95,7 @@ services:
     ports:
       - 9002:80
 
-  settings:
+  conf-api:
     build:
       context: ./apps/settings
     restart: unless-stopped
