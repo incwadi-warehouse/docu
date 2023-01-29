@@ -6,11 +6,13 @@ en
 
 - [settings][EXPERIMENT] Rework Detail View
 - [orders] Fix allowing blobs in CSP
+- [settings][EXPERIMENT] New settings service (backend service)
 
 de
 
 - [settings][EXPERIMENT] Detail View überarbeitet
 - [orders] Blobs in CSP sind jetzt erlaubt
+- [settings][EXPERIMENT] Neuer Settings-Service (Backend-Service)
 
 ## v47
 
