@@ -95,6 +95,18 @@ services:
     ports:
       - 9002:80
 
+  settings:
+    build:
+      context: ./apps/settings
+    restart: unless-stopped
+    environment:
+      - ENV=prod
+      - DATA_DIR=/usr/src/app/data/
+      - CORS_ALLOW_ORIGIN=localhost
+      - API_KEY=
+    volumes:
+      - data:/usr/src/app/data/
+
 volumes:
   mysql:
   jwt:
