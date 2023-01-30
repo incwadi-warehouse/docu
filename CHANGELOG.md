@@ -8,6 +8,7 @@ en
 - [orders] Fix allowing blobs in CSP
 - [conf-api][EXPERIMENT] New settings service
 - [catalog] Fix bug where is was not possible to save a book without release year
+- [orders][EXPERIMENT] New orders view is now the default
 
 de
 
@@ -15,6 +16,7 @@ de
 - [orders] Blobs in CSP sind jetzt erlaubt
 - [conf-api][EXPERIMENT] Neuer Settings-Service
 - [catalog] Bug behoben, der Speichern von Büchern ohne Erscheinungsjahr verhindert hat
+- [orders][EXPERIMENT] Die neue Ansicht in den Bestellungen ist jetzt der Standard
 
 ## v47
 
