@@ -10,6 +10,7 @@ en
 - [catalog] Fix bug where is was not possible to save a book without release year
 - [orders][EXPERIMENT] New orders view is now the default
 - [orders][EXPERIMENT] Show snow and party toggle only for authenticated users
+- [orders][EXPERIMENT] Rainbow Colors
 
 de
 
@@ -19,6 +20,7 @@ de
 - [catalog] Bug behoben, der Speichern von Büchern ohne Erscheinungsjahr verhindert hat
 - [orders][EXPERIMENT] Die neue Ansicht in den Bestellungen ist jetzt der Standard
 - [orders][EXPERIMENT] Zeige Schnee- und Party-Toggle nur wenn Nutzer authentifiziert sind
+- [orders][EXPERIMENT] Rainbow Colors
 
 ## v47
 
