@@ -7,12 +7,14 @@ en
 - [settings][EXPERIMENT] Rework Detail View
 - [orders] Fix allowing blobs in CSP
 - [conf-api][EXPERIMENT] New settings service
+- [catalog] Fix bug where is was not possible to save a book without release year
 
 de
 
 - [settings][EXPERIMENT] Detail View überarbeitet
 - [orders] Blobs in CSP sind jetzt erlaubt
 - [conf-api][EXPERIMENT] Neuer Settings-Service
+- [catalog] Bug behoben, der Speichern von Büchern ohne Erscheinungsjahr verhindert hat
 
 ## v47
 
