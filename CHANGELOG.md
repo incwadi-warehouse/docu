@@ -6,11 +6,13 @@ en
 
 - [orders] Reactoring
 - [conf-api][EXPERIMENT] Bugfix and Improvements
+- [orders] New list and detail view, old view removed
 
 de
 
 - [orders] Reactoring
 - [conf-api][EXPERIMENT] Korrektur und Verbesserungen
+- [orders] Neue Listen- und Detailansicht, alte Ansicht entfernt
 
 ## v48
 
