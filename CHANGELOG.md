@@ -1,5 +1,23 @@
 # Changelog
 
+## v49
+
+en
+
+- [orders] Reactoring
+- [conf-api][EXPERIMENT] Bugfix and Improvements
+- [orders] New list and detail view, old view removed
+- [accounts][EXPERIMENT] Accounts service improved
+- [catalog][orders][settings] Icon for reservations removed
+
+de
+
+- [orders] Reactoring
+- [conf-api][EXPERIMENT] Korrektur und Verbesserungen
+- [orders] Neue Listen- und Detailansicht, alte Ansicht entfernt
+- [accounts][EXPERIMENT] Accounts Service verbessert
+- [catalog][orders][settings] Icon von Reservierungen entfernt
+
 ## v48
 
 en
