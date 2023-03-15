@@ -5,11 +5,13 @@ v50
 en
 
 - [orders] Sell all products from order
+- [orders] Remove product from order
 
 de
 
 - [orders] Alle Produkte aus einer Bestellung verkaufen
-
+- [orders] Produkt von einer Bestellung entfernen
+ 
 ## v49
 
 en
