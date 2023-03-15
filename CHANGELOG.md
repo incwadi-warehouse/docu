@@ -1,5 +1,15 @@
 # Changelog
 
+v50
+
+en
+
+- [orders] Sell all products from order
+
+de
+
+- [orders] Alle Produkte aus einer Bestellung verkaufen
+
 ## v49
 
 en
