@@ -6,11 +6,13 @@ en
 
 - [orders] Sell all products from order
 - [orders] Remove product from order
+- [conf-api] Improvements
 
 de
 
 - [orders] Alle Produkte aus einer Bestellung verkaufen
 - [orders] Produkt von einer Bestellung entfernen
+- [conf-api] Verbesserungen
  
 ## v49
 
