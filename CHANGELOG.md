@@ -7,12 +7,14 @@ en
 - [orders] Sell all products from order
 - [orders] Remove product from order
 - [conf-api] Improvements
+- [core] Field format must not be empty
 
 de
 
 - [orders] Alle Produkte aus einer Bestellung verkaufen
 - [orders] Produkt von einer Bestellung entfernen
 - [conf-api] Verbesserungen
+- [core] Feld Typ darf nicht mehr leer bleiben
  
 ## v49
 
