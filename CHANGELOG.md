@@ -8,6 +8,7 @@ en
 - [orders] Remove product from order
 - [conf-api] Improvements
 - [core] Field format must not be empty
+- [orders] Remove action to remove a book from order
 
 de
 
@@ -15,6 +16,7 @@ de
 - [orders] Produkt von einer Bestellung entfernen
 - [conf-api] Verbesserungen
 - [core] Feld Typ darf nicht mehr leer bleiben
+- [orders] Einzelne Bücher können nicht mehr von der Liste entfernt werden
  
 ## v49
 
