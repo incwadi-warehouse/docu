@@ -1,6 +1,16 @@
 # Changelog
 
-v50
+## v51
+
+en
+
+- [conf-api] The config service is now stable
+
+de 
+
+- [conf-api] Der config-Service ist jetzt stabil
+
+## v50
 
 en
 
