@@ -6,11 +6,13 @@ en
 
 - [conf-api] The config service is now stable
 - [catalog][orders][settings][accounts] Snow, Party, Pride and Beach is now available on the internal pages
+- [core][catalog] Books can be marked as duplicate
 
 de 
 
 - [conf-api] Der config-Service ist jetzt stabil
 - [catalog][orders][settings][accounts] Schnee, Party, Pride und Strand ist jetzt auf den internen Seiten verfügbar
+- [core][catalog] Bücher können als Duplikat markiert werden.
 
 ## v50
 
