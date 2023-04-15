@@ -5,12 +5,12 @@
 en
 
 - [conf-api] The config service is now stable
-- [catalog][orders][settings][EXPERIMENT] Snow is now available on any internal page
+- [catalog][orders][settings][accounts] Snow, Party, Pride and Beach is now available on the internal pages
 
 de 
 
 - [conf-api] Der config-Service ist jetzt stabil
-- [catalog][orders][settings][EXPERIMENT] Schnee ist jetzt auf allen internen Seiten verfügbar
+- [catalog][orders][settings][accounts] Schnee, Party, Pride und Strand ist jetzt auf den internen Seiten verfügbar
 
 ## v50
 
