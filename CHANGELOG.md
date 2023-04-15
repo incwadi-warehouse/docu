@@ -5,10 +5,12 @@
 en
 
 - [conf-api] The config service is now stable
+- [catalog][orders][settings][EXPERIMENT] Snow is now available on any internal page
 
 de 
 
 - [conf-api] Der config-Service ist jetzt stabil
+- [catalog][orders][settings][EXPERIMENT] Schnee ist jetzt auf allen internen Seiten verfügbar
 
 ## v50
 
