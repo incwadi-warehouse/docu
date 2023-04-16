@@ -7,12 +7,14 @@ en
 - [conf-api] The config service is now stable
 - [catalog][orders][settings][accounts] Snow, Party, Pride and Beach is now available on the internal pages
 - [core][catalog] Books can be marked as duplicate
+- [catalog] Fix issue where after reset the filter all branches where searched
 
 de 
 
 - [conf-api] Der config-Service ist jetzt stabil
 - [catalog][orders][settings][accounts] Schnee, Party, Pride und Strand ist jetzt auf den internen Seiten verfügbar
 - [core][catalog] Bücher können als Duplikat markiert werden.
+- [catalog] Fehler behoben, wodurch nach dem Zurücksetzen der Filter die Suche über alle Filialen hinweg lief.
 
 ## v50
 
