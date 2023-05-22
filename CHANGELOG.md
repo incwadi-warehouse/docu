@@ -1,5 +1,15 @@
 # Changelog
 
+## v52
+
+en
+
+- [orders] Print customer details
+
+de
+
+- [orders] Drucke Kundeninformationen
+
 ## v51
 
 en
