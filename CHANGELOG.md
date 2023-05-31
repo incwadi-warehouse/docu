@@ -7,12 +7,14 @@ en
 - [orders] Print customer details
 - [catalog][settings][orders] New profile link, uses now the new accounts service
 - [catalog][settings][orders] Redesign navigation panel
+- [admincli][EXPERIMENT] CLI in the server for emergencies
 
 de
 
 - [orders] Drucke Kundeninformationen
 - [catalog][settings][orders] Neuer Profil-Link, der neue Accounts-Service wird jetzt verwendet.
 - [catalog][settings][orders] Navigations-Panel neu gestaltet
+- [admincli][EXPERIMENT] CLI auf dem Server für Notfälle
 
 ## v51
 
