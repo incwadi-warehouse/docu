@@ -5,10 +5,12 @@
 en
 
 - [orders] Print customer details
+- [catalog][settings][orders] New profile link, uses now the new accounts service
 
 de
 
 - [orders] Drucke Kundeninformationen
+- [catalog][settings][orders] Neuer Profil-Link, der neue Accounts-Service wird jetzt verwendet.
 
 ## v51
 
