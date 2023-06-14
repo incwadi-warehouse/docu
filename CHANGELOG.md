@@ -1,5 +1,15 @@
 # Changelog
 
+## v53
+
+en
+
+- [catalog] Fix issue in search where translation was missing counter
+
+de
+
+- [catalog] Fehler in der SUche behoben, wodurch der Counter in der Übersetzung nicht sichtbar war
+
 ## v52
 
 en
