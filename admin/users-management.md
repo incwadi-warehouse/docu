@@ -23,3 +23,8 @@ If the user has forgotten the password, you can reset it with this command. Repl
 ```shell
 bin/console user:reset-password [ID]
 ```
+
+Delete a user
+
+- Remove it from MySQL database (table `user`)
+- Remove all related configuration from `conf-api`
