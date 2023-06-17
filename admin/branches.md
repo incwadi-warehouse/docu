@@ -13,3 +13,9 @@ Creating a new branch is straightforward. Replace `[NAME]` with your desired nam
 ```shell
 bin/console branch:new [NAME]
 ```
+
+Delete a branch
+
+- Remove all corresponding books, authors, conditions, formats, genres and tags
+- Remove it from MySQL database (table `branch`)
+- Remove all related configuration from `conf-api`
