@@ -19,3 +19,4 @@ Delete a branch
 - Remove all corresponding books, authors, conditions, formats, genres and tags
 - Remove it from MySQL database (table `branch`)
 - Remove all related configuration from `conf-api`
+- Remove id from env var `BRANCHES` in `search-api`
