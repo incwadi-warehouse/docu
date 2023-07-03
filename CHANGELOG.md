@@ -9,7 +9,7 @@ en
 
 de
 
-- [catalog] Fehler in der SUche behoben, wodurch der Counter in der Übersetzung nicht sichtbar war
+- [catalog] Fehler in der Suche behoben, wodurch der Counter in der Übersetzung nicht sichtbar war
 - [search-api][catalog][EXPERIMENT] Neuer Such-Index
 - 
 ## v52
