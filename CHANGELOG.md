@@ -5,13 +5,15 @@
 en
 
 - [catalog] Fix issue in search where translation was missing counter
-- [search-api][catalog][EXPERIMENT] New search index 
+- [search-api][catalog][EXPERIMENT] New search index
+- [orders] Print list of products
 
 de
 
 - [catalog] Fehler in der Suche behoben, wodurch der Counter in der Übersetzung nicht sichtbar war
 - [search-api][catalog][EXPERIMENT] Neuer Such-Index
-- 
+- [orders] Drucke Produktliste aus
+   
 ## v52
 
 en
