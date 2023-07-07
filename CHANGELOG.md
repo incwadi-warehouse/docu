@@ -1,5 +1,15 @@
 # Changelog
 
+## v54
+
+en
+
+- [admincli] admincli is now stable
+
+de
+
+- [admincli] admincli ist jetzt stabil
+
 ## v53
 
 en
