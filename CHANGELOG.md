@@ -5,10 +5,12 @@
 en
 
 - [admincli] admincli is now stable
+- [orders] Genre filter smaller and darker color
 
 de
 
 - [admincli] admincli ist jetzt stabil
+- [orders] Rubrikenfilter ist jetzt kleiner und hat eine dunkere Farbe
 
 ## v53
 
