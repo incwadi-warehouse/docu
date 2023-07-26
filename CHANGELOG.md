@@ -6,11 +6,13 @@ en
 
 - [admincli] admincli is now stable
 - [orders] Genre filter smaller and darker color
+- [orders][EXPERIMENT] Login redirects to new accounts service
 
 de
 
 - [admincli] admincli ist jetzt stabil
 - [orders] Rubrikenfilter ist jetzt kleiner und hat eine dunkere Farbe
+- [orders][EXPERIMENT] Login leitet auf den neuen Accounts-Service weiter
 
 ## v53
 
