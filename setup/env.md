@@ -24,3 +24,4 @@
 - VUE_APP_BASE_URL - The Base URL, in case the app is installed in a subdirectory
 - PROXY_DOMAIN - Service name of the php-fpm instance
 - VUE_APP_CONF_API - URL to the conf-api service
+- VUE_APP_REDIRECT_ALLOWED_HOSTS - Comma-separated list of allowed hosts
