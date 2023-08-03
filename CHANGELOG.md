@@ -1,5 +1,15 @@
 # Changelog
 
+## v55
+
+en
+
+- [accounts] Accounts service now stable
+
+de
+
+- [accounts] Accounts-Service ist jetzt stabil
+
 ## v54
 
 en
