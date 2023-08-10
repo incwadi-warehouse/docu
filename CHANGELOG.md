@@ -5,10 +5,12 @@
 en
 
 - [accounts] Accounts service now stable
+- [core][shop] Allow empty search terms
 
 de
 
 - [accounts] Accounts-Service ist jetzt stabil
+- [core][shop] Erlaube leere Suchbegriffe
 
 ## v54
 
