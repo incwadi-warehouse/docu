@@ -6,11 +6,13 @@ en
 
 - [accounts] Accounts service now stable
 - [core][shop] Allow empty search terms
+- Support devcontainers fot better development
 
 de
 
 - [accounts] Accounts-Service ist jetzt stabil
 - [core][shop] Erlaube leere Suchbegriffe
+- Unterstützung für devcontainer für bessere Entwicklung
 
 ## v54
 
