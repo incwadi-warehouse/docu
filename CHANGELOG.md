@@ -7,13 +7,15 @@ en
 - [accounts] Accounts service now stable
 - [core][shop] Allow empty search terms
 - Support devcontainers fot better development
+- [core] Minimum requirement is now PHP 8.2
 
 de
 
 - [accounts] Accounts-Service ist jetzt stabil
 - [core][shop] Erlaube leere Suchbegriffe
 - Unterstützung für devcontainer für bessere Entwicklung
-
+- [core] Mindestvoraussetzung ist jetzt PHP 8.2
+ 
 ## v54
 
 en
