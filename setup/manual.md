@@ -2,9 +2,9 @@
 
 ## Requirements
 
-- PHP 8.1
+- PHP 8.2
 - PHP Composer
-- NodeJS 14LTS
+- NodeJS 20
 - Yarn
 - MySQL
 - SSH Access
