@@ -6,7 +6,7 @@ en
 
 - [accounts] Accounts service now stable
 - [core][shop] Allow empty search terms
-- Support devcontainers fot better development
+- Support devcontainers for better development
 - [core] Minimum requirement is now PHP 8.2
 
 de
