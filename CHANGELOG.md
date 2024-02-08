@@ -1,5 +1,9 @@
 # Changelog
 
+## v58.0.1
+
+- [catalog] Fix sorting book by sold date and removed date
+
 ## v56
 
 - Maintenance
