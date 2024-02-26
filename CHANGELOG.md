@@ -1,5 +1,9 @@
 # Changelog
 
+## v59.0.0
+
+- [shop] Add "Continue browsing" link in detail view to search
+
 ## v58.0.1
 
 - [catalog] Fix sorting book by sold date and removed date
