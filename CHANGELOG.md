@@ -2,7 +2,7 @@
 
 ## v59.0.0
 
-- [shop] Add "Continue browsing" link in detail view to search
+- [shop] Add "Continue Browsing" link in detail view to search
 
 ## v58.0.1
 
