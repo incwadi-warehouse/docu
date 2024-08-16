@@ -26,3 +26,4 @@
 - PROXY_DOMAIN - Service name of the php-fpm instance
 - VUE_APP_CONF_API - URL to the conf-api service
 - VUE_APP_REDIRECT_ALLOWED_HOSTS - Comma-separated list of allowed hosts
+- VITE_ORDER_INFO - Info for the checkout process
